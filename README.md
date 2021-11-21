@@ -131,3 +131,7 @@ Inside the **Post** model serialzer, we need to add the following fields:
   rails g model User email:string name:string auth_token:string
   
 ```
+
+### FAKER DOCUMENTATION LIST
+
+[Faker Documentation Examples](https://github.com/faker-ruby/faker)
