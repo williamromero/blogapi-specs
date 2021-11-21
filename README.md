@@ -132,6 +132,15 @@ Inside the **Post** model serialzer, we need to add the following fields:
   
 ```
 
-### FAKER DOCUMENTATION LIST
+### GEMS GITHUB REPOSITORIES
 
-[Faker Documentation Examples](https://github.com/faker-ruby/faker)
+
+[Rspec Rails](https://github.com/rspec/rspec-rails)
+
+[FactoryBot Rails](https://github.com/thoughtbot/factory_bot_rails)
+
+[Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner)
+
+[Shoulda-Matchers](https://github.com/thoughtbot/shoulda-matchers)
+
+[Faker](https://github.com/faker-ruby/faker)
